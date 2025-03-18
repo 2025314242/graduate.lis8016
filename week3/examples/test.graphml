@@ -1,0 +1,5257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="count" attr.type="int"/>
+<graph edgedefault="undirected"><node id="4대강">
+  <data key="d0">1</data>
+</node>
+<node id="사업">
+  <data key="d0">1</data>
+</node>
+<node id="4대강_사업">
+  <data key="d0">1</data>
+</node>
+<node id="사업_대형">
+  <data key="d0">1</data>
+</node>
+<node id="a4">
+  <data key="d0">1</data>
+</node>
+<node id="용지">
+  <data key="d0">1</data>
+</node>
+<node id="a4_용지">
+  <data key="d0">1</data>
+</node>
+<node id="용지_조롱">
+  <data key="d0">1</data>
+</node>
+<node id="be_님">
+  <data key="d0">4</data>
+</node>
+<node id="님_공유">
+  <data key="d0">4</data>
+</node>
+<node id="co_kr">
+  <data key="d0">5</data>
+</node>
+<node id="kr_나중">
+  <data key="d0">1</data>
+</node>
+<node id="kr_핸드폰">
+  <data key="d0">1</data>
+</node>
+<node id="com">
+  <data key="d0">33</data>
+</node>
+<node id="문재인_원래">
+  <data key="d0">1</data>
+</node>
+<node id="시사_문">
+  <data key="d0">1</data>
+</node>
+<node id="진표_티">
+  <data key="d0">1</data>
+</node>
+<node id="kr">
+  <data key="d0">5</data>
+</node>
+<node id="나중">
+  <data key="d0">3</data>
+</node>
+<node id="핸드폰">
+  <data key="d0">1</data>
+</node>
+<node id="나중_핵">
+  <data key="d0">1</data>
+</node>
+<node id="핸드폰_케이스">
+  <data key="d0">1</data>
+</node>
+<node id="net">
+  <data key="d0">11</data>
+</node>
+<node id="남북">
+  <data key="d0">7</data>
+</node>
+<node id="실현">
+  <data key="d0">5</data>
+</node>
+<node id="중앙">
+  <data key="d0">1</data>
+</node>
+<node id="혼수">
+  <data key="d0">1</data>
+</node>
+<node id="net_남북">
+  <data key="d0">1</data>
+</node>
+<node id="남북_군사">
+  <data key="d0">1</data>
+</node>
+<node id="net_실현">
+  <data key="d0">4</data>
+</node>
+<node id="실현_윈윈">
+  <data key="d0">5</data>
+</node>
+<node id="net_중앙">
+  <data key="d0">1</data>
+</node>
+<node id="중앙_기레기">
+  <data key="d0">1</data>
+</node>
+<node id="net_혼수">
+  <data key="d0">1</data>
+</node>
+<node id="혼수_성태">
+  <data key="d0">1</data>
+</node>
+<node id="가동">
+  <data key="d0">2</data>
+</node>
+<node id="개성">
+  <data key="d0">3</data>
+</node>
+<node id="가동_개성">
+  <data key="d0">1</data>
+</node>
+<node id="개성_시내">
+  <data key="d0">1</data>
+</node>
+<node id="가짜">
+  <data key="d0">9</data>
+</node>
+<node id="뉴스">
+  <data key="d0">25</data>
+</node>
+<node id="싸이">
+  <data key="d0">1</data>
+</node>
+<node id="가짜_뉴스">
+  <data key="d0">7</data>
+</node>
+<node id="뉴스_보도">
+  <data key="d0">1</data>
+</node>
+<node id="가짜_생각">
+  <data key="d0">1</data>
+</node>
+<node id="생각_일">
+  <data key="d0">1</data>
+</node>
+<node id="감_상당">
+  <data key="d0">1</data>
+</node>
+<node id="상당_김현정">
+  <data key="d0">1</data>
+</node>
+<node id="강_경화">
+  <data key="d0">1</data>
+</node>
+<node id="경화_외교부">
+  <data key="d0">1</data>
+</node>
+<node id="강경">
+  <data key="d0">3</data>
+</node>
+<node id="교육">
+  <data key="d0">1</data>
+</node>
+<node id="강경_교육">
+  <data key="d0">1</data>
+</node>
+<node id="교육_것">
+  <data key="d0">1</data>
+</node>
+<node id="강산">
+  <data key="d0">1</data>
+</node>
+<node id="목숨">
+  <data key="d0">2</data>
+</node>
+<node id="강산_때">
+  <data key="d0">1</data>
+</node>
+<node id="때_목숨">
+  <data key="d0">1</data>
+</node>
+<node id="강화">
+  <data key="d0">2</data>
+</node>
+<node id="대책">
+  <data key="d0">3</data>
+</node>
+<node id="강화_대책">
+  <data key="d0">1</data>
+</node>
+<node id="대책_마련">
+  <data key="d0">1</data>
+</node>
+<node id="개_누리">
+  <data key="d0">1</data>
+</node>
+<node id="누리_자">
+  <data key="d0">1</data>
+</node>
+<node id="개선">
+  <data key="d0">1</data>
+</node>
+<node id="발언">
+  <data key="d0">5</data>
+</node>
+<node id="개선_발언">
+  <data key="d0">1</data>
+</node>
+<node id="발언_잘못">
+  <data key="d0">1</data>
+</node>
+<node id="시내">
+  <data key="d0">1</data>
+</node>
+<node id="연락">
+  <data key="d0">2</data>
+</node>
+<node id="시내_수돗물">
+  <data key="d0">1</data>
+</node>
+<node id="개성_연락">
+  <data key="d0">1</data>
+</node>
+<node id="연락_사무소">
+  <data key="d0">1</data>
+</node>
+<node id="개월_연속">
+  <data key="d0">1</data>
+</node>
+<node id="연속_흑자">
+  <data key="d0">1</data>
+</node>
+<node id="개인">
+  <data key="d0">3</data>
+</node>
+<node id="대선">
+  <data key="d0">3</data>
+</node>
+<node id="개인_생각">
+  <data key="d0">1</data>
+</node>
+<node id="생각_대선">
+  <data key="d0">1</data>
+</node>
+<node id="개판">
+  <data key="d0">1</data>
+</node>
+<node id="보궐">
+  <data key="d0">1</data>
+</node>
+<node id="개판_운">
+  <data key="d0">1</data>
+</node>
+<node id="운_보궐">
+  <data key="d0">1</data>
+</node>
+<node id="갤럭시">
+  <data key="d0">1</data>
+</node>
+<node id="케이스">
+  <data key="d0">7</data>
+</node>
+<node id="갤럭시_케이스">
+  <data key="d0">1</data>
+</node>
+<node id="케이스_케이스">
+  <data key="d0">2</data>
+</node>
+<node id="거_개인">
+  <data key="d0">1</data>
+</node>
+<node id="거_인정">
+  <data key="d0">1</data>
+</node>
+<node id="인정_수">
+  <data key="d0">1</data>
+</node>
+<node id="거짓">
+  <data key="d0">3</data>
+</node>
+<node id="신정">
+  <data key="d0">1</data>
+</node>
+<node id="거짓_쇼">
+  <data key="d0">1</data>
+</node>
+<node id="쇼_등">
+  <data key="d0">1</data>
+</node>
+<node id="거짓말">
+  <data key="d0">2</data>
+</node>
+<node id="평화">
+  <data key="d0">5</data>
+</node>
+<node id="거짓말_평화">
+  <data key="d0">1</data>
+</node>
+<node id="평화_이름">
+  <data key="d0">1</data>
+</node>
+<node id="건_생각">
+  <data key="d0">1</data>
+</node>
+<node id="생각_것">
+  <data key="d0">1</data>
+</node>
+<node id="검토">
+  <data key="d0">1</data>
+</node>
+<node id="검토_발언">
+  <data key="d0">1</data>
+</node>
+<node id="발언_승인">
+  <data key="d0">1</data>
+</node>
+<node id="것_말">
+  <data key="d0">2</data>
+</node>
+<node id="말_번">
+  <data key="d0">1</data>
+</node>
+<node id="것_문">
+  <data key="d0">1</data>
+</node>
+<node id="문_파">
+  <data key="d0">4</data>
+</node>
+<node id="것_문재인">
+  <data key="d0">3</data>
+</node>
+<node id="문재인_고용">
+  <data key="d0">1</data>
+</node>
+<node id="것_승인">
+  <data key="d0">2</data>
+</node>
+<node id="승인_한국">
+  <data key="d0">1</data>
+</node>
+<node id="것_압권">
+  <data key="d0">1</data>
+</node>
+<node id="압권_박근혜">
+  <data key="d0">1</data>
+</node>
+<node id="것_트럼프">
+  <data key="d0">1</data>
+</node>
+<node id="트럼프_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="것_한동안">
+  <data key="d0">1</data>
+</node>
+<node id="한동안_무지">
+  <data key="d0">1</data>
+</node>
+<node id="겨_모야">
+  <data key="d0">1</data>
+</node>
+<node id="모야_응">
+  <data key="d0">1</data>
+</node>
+<node id="경_제가">
+  <data key="d0">1</data>
+</node>
+<node id="제가_이정">
+  <data key="d0">1</data>
+</node>
+<node id="경고">
+  <data key="d0">3</data>
+</node>
+<node id="김정은">
+  <data key="d0">13</data>
+</node>
+<node id="트럼프_미국">
+  <data key="d0">1</data>
+</node>
+<node id="한국">
+  <data key="d0">15</data>
+</node>
+<node id="경고_김정은">
+  <data key="d0">1</data>
+</node>
+<node id="김정은_핵">
+  <data key="d0">1</data>
+</node>
+<node id="경고_한국">
+  <data key="d0">1</data>
+</node>
+<node id="한국_제재">
+  <data key="d0">1</data>
+</node>
+<node id="경상수지">
+  <data key="d0">1</data>
+</node>
+<node id="사상">
+  <data key="d0">2</data>
+</node>
+<node id="경상수지_사상">
+  <data key="d0">1</data>
+</node>
+<node id="사상_최장">
+  <data key="d0">1</data>
+</node>
+<node id="경선">
+  <data key="d0">2</data>
+</node>
+<node id="기자">
+  <data key="d0">3</data>
+</node>
+<node id="문재인">
+  <data key="d0">129</data>
+</node>
+<node id="경선_기자">
+  <data key="d0">1</data>
+</node>
+<node id="기자_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="경선_때">
+  <data key="d0">1</data>
+</node>
+<node id="때_문재인">
+  <data key="d0">3</data>
+</node>
+<node id="경제">
+  <data key="d0">14</data>
+</node>
+<node id="명견만리">
+  <data key="d0">4</data>
+</node>
+<node id="정책">
+  <data key="d0">3</data>
+</node>
+<node id="경제_명견만리">
+  <data key="d0">3</data>
+</node>
+<node id="명견만리_문재인">
+  <data key="d0">2</data>
+</node>
+<node id="경제_정책">
+  <data key="d0">2</data>
+</node>
+<node id="정책_설명">
+  <data key="d0">1</data>
+</node>
+<node id="정책_효과">
+  <data key="d0">1</data>
+</node>
+<node id="경화">
+  <data key="d0">2</data>
+</node>
+<node id="외교부">
+  <data key="d0">1</data>
+</node>
+<node id="외교부_장관">
+  <data key="d0">1</data>
+</node>
+<node id="계기">
+  <data key="d0">1</data>
+</node>
+<node id="고용">
+  <data key="d0">2</data>
+</node>
+<node id="고용_질">
+  <data key="d0">1</data>
+</node>
+<node id="질_개선">
+  <data key="d0">1</data>
+</node>
+<node id="곳_절반">
+  <data key="d0">1</data>
+</node>
+<node id="절반_싹쓸이">
+  <data key="d0">1</data>
+</node>
+<node id="공갈">
+  <data key="d0">2</data>
+</node>
+<node id="공갈_쇼">
+  <data key="d0">1</data>
+</node>
+<node id="쇼_경고">
+  <data key="d0">1</data>
+</node>
+<node id="공급">
+  <data key="d0">2</data>
+</node>
+<node id="문재인_개성">
+  <data key="d0">1</data>
+</node>
+<node id="공무원">
+  <data key="d0">4</data>
+</node>
+<node id="증원">
+  <data key="d0">4</data>
+</node>
+<node id="공조">
+  <data key="d0">2</data>
+</node>
+<node id="공조_거짓말">
+  <data key="d0">1</data>
+</node>
+<node id="과학">
+  <data key="d0">2</data>
+</node>
+<node id="의학">
+  <data key="d0">1</data>
+</node>
+<node id="과학_의학">
+  <data key="d0">1</data>
+</node>
+<node id="의학_종교인">
+  <data key="d0">1</data>
+</node>
+<node id="관계">
+  <data key="d0">2</data>
+</node>
+<node id="독자">
+  <data key="d0">1</data>
+</node>
+<node id="관계_독자">
+  <data key="d0">1</data>
+</node>
+<node id="독자_진행">
+  <data key="d0">1</data>
+</node>
+<node id="관세청">
+  <data key="d0">1</data>
+</node>
+<node id="청산">
+  <data key="d0">3</data>
+</node>
+<node id="관세청_적">
+  <data key="d0">1</data>
+</node>
+<node id="적_폐">
+  <data key="d0">7</data>
+</node>
+<node id="트럼프">
+  <data key="d0">17</data>
+</node>
+<node id="교체">
+  <data key="d0">2</data>
+</node>
+<node id="보도">
+  <data key="d0">4</data>
+</node>
+<node id="교체_보도">
+  <data key="d0">2</data>
+</node>
+<node id="보도_중앙일보">
+  <data key="d0">2</data>
+</node>
+<node id="국가">
+  <data key="d0">1</data>
+</node>
+<node id="안보">
+  <data key="d0">7</data>
+</node>
+<node id="국가_안보">
+  <data key="d0">1</data>
+</node>
+<node id="안보_눈">
+  <data key="d0">1</data>
+</node>
+<node id="국민">
+  <data key="d0">7</data>
+</node>
+<node id="미래">
+  <data key="d0">3</data>
+</node>
+<node id="행위">
+  <data key="d0">5</data>
+</node>
+<node id="국민_속">
+  <data key="d0">1</data>
+</node>
+<node id="속_행위">
+  <data key="d0">1</data>
+</node>
+<node id="국회의원">
+  <data key="d0">4</data>
+</node>
+<node id="인정">
+  <data key="d0">1</data>
+</node>
+<node id="국회의원_일">
+  <data key="d0">1</data>
+</node>
+<node id="일_만큼">
+  <data key="d0">1</data>
+</node>
+<node id="군사">
+  <data key="d0">1</data>
+</node>
+<node id="합의">
+  <data key="d0">1</data>
+</node>
+<node id="군사_합의">
+  <data key="d0">1</data>
+</node>
+<node id="합의_미국">
+  <data key="d0">1</data>
+</node>
+<node id="궁_거">
+  <data key="d0">1</data>
+</node>
+<node id="그동안_우방국">
+  <data key="d0">1</data>
+</node>
+<node id="우방국_대우">
+  <data key="d0">1</data>
+</node>
+<node id="그림">
+  <data key="d0">2</data>
+</node>
+<node id="정련">
+  <data key="d0">1</data>
+</node>
+<node id="그림_정련">
+  <data key="d0">1</data>
+</node>
+<node id="정련_물">
+  <data key="d0">1</data>
+</node>
+<node id="근절">
+  <data key="d0">1</data>
+</node>
+<node id="근절_대책">
+  <data key="d0">1</data>
+</node>
+<node id="대책_필요">
+  <data key="d0">1</data>
+</node>
+<node id="기레기">
+  <data key="d0">4</data>
+</node>
+<node id="박근혜">
+  <data key="d0">8</data>
+</node>
+<node id="기레기_가짜">
+  <data key="d0">1</data>
+</node>
+<node id="기레기_박근혜">
+  <data key="d0">1</data>
+</node>
+<node id="박근혜_통일">
+  <data key="d0">1</data>
+</node>
+<node id="기억">
+  <data key="d0">1</data>
+</node>
+<node id="자칭_트위터">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_대통령">
+  <data key="d0">27</data>
+</node>
+<node id="김동연">
+  <data key="d0">2</data>
+</node>
+<node id="장하">
+  <data key="d0">4</data>
+</node>
+<node id="김동연_장하">
+  <data key="d0">2</data>
+</node>
+<node id="장하_연말">
+  <data key="d0">2</data>
+</node>
+<node id="김병준">
+  <data key="d0">2</data>
+</node>
+<node id="김종인">
+  <data key="d0">4</data>
+</node>
+<node id="정부">
+  <data key="d0">33</data>
+</node>
+<node id="김병준_김종인">
+  <data key="d0">1</data>
+</node>
+<node id="김종인_줄">
+  <data key="d0">1</data>
+</node>
+<node id="김병준_정부">
+  <data key="d0">1</data>
+</node>
+<node id="정부_북한">
+  <data key="d0">1</data>
+</node>
+<node id="김성태">
+  <data key="d0">2</data>
+</node>
+<node id="작년">
+  <data key="d0">1</data>
+</node>
+<node id="김성태_작년">
+  <data key="d0">1</data>
+</node>
+<node id="작년_병영">
+  <data key="d0">1</data>
+</node>
+<node id="마음">
+  <data key="d0">4</data>
+</node>
+<node id="김정은_경고">
+  <data key="d0">1</data>
+</node>
+<node id="김정은_마음">
+  <data key="d0">1</data>
+</node>
+<node id="마음_정상회담">
+  <data key="d0">1</data>
+</node>
+<node id="핵_공갈">
+  <data key="d0">1</data>
+</node>
+<node id="대표">
+  <data key="d0">5</data>
+</node>
+<node id="부역">
+  <data key="d0">1</data>
+</node>
+<node id="김종인_대표">
+  <data key="d0">1</data>
+</node>
+<node id="대표_직">
+  <data key="d0">1</data>
+</node>
+<node id="김종인_부역">
+  <data key="d0">1</data>
+</node>
+<node id="부역_박영선">
+  <data key="d0">1</data>
+</node>
+<node id="줄_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="김종인_파">
+  <data key="d0">1</data>
+</node>
+<node id="파_연">
+  <data key="d0">1</data>
+</node>
+<node id="김현정">
+  <data key="d0">1</data>
+</node>
+<node id="뉴스쇼">
+  <data key="d0">1</data>
+</node>
+<node id="김현정_뉴스쇼">
+  <data key="d0">1</data>
+</node>
+<node id="뉴스쇼_국회의원">
+  <data key="d0">1</data>
+</node>
+<node id="발전">
+  <data key="d0">1</data>
+</node>
+<node id="핵_발전">
+  <data key="d0">1</data>
+</node>
+<node id="낙제점">
+  <data key="d0">1</data>
+</node>
+<node id="낙제점_관세청">
+  <data key="d0">1</data>
+</node>
+<node id="남북_관계">
+  <data key="d0">1</data>
+</node>
+<node id="남북_안보">
+  <data key="d0">5</data>
+</node>
+<node id="안보_경제">
+  <data key="d0">5</data>
+</node>
+<node id="남한">
+  <data key="d0">2</data>
+</node>
+<node id="붕괴">
+  <data key="d0">2</data>
+</node>
+<node id="남한_붕괴">
+  <data key="d0">1</data>
+</node>
+<node id="붕괴_진리">
+  <data key="d0">1</data>
+</node>
+<node id="너는">
+  <data key="d0">1</data>
+</node>
+<node id="알라">
+  <data key="d0">2</data>
+</node>
+<node id="너는_줄">
+  <data key="d0">1</data>
+</node>
+<node id="줄_알라">
+  <data key="d0">1</data>
+</node>
+<node id="네이버">
+  <data key="d0">16</data>
+</node>
+<node id="뉴스_me">
+  <data key="d0">6</data>
+</node>
+<node id="년_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_정부">
+  <data key="d0">19</data>
+</node>
+<node id="년차">
+  <data key="d0">1</data>
+</node>
+<node id="손바닥">
+  <data key="d0">1</data>
+</node>
+<node id="년차_손바닥">
+  <data key="d0">1</data>
+</node>
+<node id="손바닥_하늘">
+  <data key="d0">1</data>
+</node>
+<node id="노릇">
+  <data key="d0">1</data>
+</node>
+<node id="노릇_net">
+  <data key="d0">1</data>
+</node>
+<node id="놀_댓글">
+  <data key="d0">1</data>
+</node>
+<node id="댓글_이해">
+  <data key="d0">1</data>
+</node>
+<node id="누리">
+  <data key="d0">1</data>
+</node>
+<node id="한당">
+  <data key="d0">1</data>
+</node>
+<node id="자_한당">
+  <data key="d0">1</data>
+</node>
+<node id="눈_것">
+  <data key="d0">1</data>
+</node>
+<node id="뉴스_소득">
+  <data key="d0">1</data>
+</node>
+<node id="소득">
+  <data key="d0">1</data>
+</node>
+<node id="보도_조선">
+  <data key="d0">1</data>
+</node>
+<node id="소득_주도">
+  <data key="d0">1</data>
+</node>
+<node id="느낌">
+  <data key="d0">1</data>
+</node>
+<node id="미국_대국">
+  <data key="d0">1</data>
+</node>
+<node id="능력">
+  <data key="d0">3</data>
+</node>
+<node id="능력_사람">
+  <data key="d0">1</data>
+</node>
+<node id="사람_박근혜">
+  <data key="d0">1</data>
+</node>
+<node id="다구">
+  <data key="d0">1</data>
+</node>
+<node id="단독">
+  <data key="d0">2</data>
+</node>
+<node id="보조금">
+  <data key="d0">1</data>
+</node>
+<node id="닭_아이폰">
+  <data key="d0">1</data>
+</node>
+<node id="아이폰_아이폰">
+  <data key="d0">2</data>
+</node>
+<node id="당_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="당선">
+  <data key="d0">1</data>
+</node>
+<node id="당선_김정은">
+  <data key="d0">1</data>
+</node>
+<node id="대국">
+  <data key="d0">1</data>
+</node>
+<node id="우방국">
+  <data key="d0">1</data>
+</node>
+<node id="대국_그동안">
+  <data key="d0">1</data>
+</node>
+<node id="대박">
+  <data key="d0">1</data>
+</node>
+<node id="장단">
+  <data key="d0">1</data>
+</node>
+<node id="대박_장단">
+  <data key="d0">1</data>
+</node>
+<node id="장단_시리즈">
+  <data key="d0">1</data>
+</node>
+<node id="대변인">
+  <data key="d0">2</data>
+</node>
+<node id="대변인_노릇">
+  <data key="d0">1</data>
+</node>
+<node id="대북">
+  <data key="d0">10</data>
+</node>
+<node id="제재">
+  <data key="d0">17</data>
+</node>
+<node id="대북_제재">
+  <data key="d0">10</data>
+</node>
+<node id="제재_정면">
+  <data key="d0">4</data>
+</node>
+<node id="대비">
+  <data key="d0">1</data>
+</node>
+<node id="대비_근절">
+  <data key="d0">1</data>
+</node>
+<node id="대상">
+  <data key="d0">1</data>
+</node>
+<node id="대상_포함">
+  <data key="d0">1</data>
+</node>
+<node id="포함_수">
+  <data key="d0">1</data>
+</node>
+<node id="대선_경선">
+  <data key="d0">1</data>
+</node>
+<node id="대선_당선">
+  <data key="d0">1</data>
+</node>
+<node id="대우">
+  <data key="d0">1</data>
+</node>
+<node id="이번">
+  <data key="d0">1</data>
+</node>
+<node id="대우_이번">
+  <data key="d0">1</data>
+</node>
+<node id="이번_폼페이">
+  <data key="d0">1</data>
+</node>
+<node id="마련">
+  <data key="d0">1</data>
+</node>
+<node id="필요">
+  <data key="d0">2</data>
+</node>
+<node id="마련_지시">
+  <data key="d0">1</data>
+</node>
+<node id="필요_net">
+  <data key="d0">1</data>
+</node>
+<node id="대통령">
+  <data key="d0">36</data>
+</node>
+<node id="유럽">
+  <data key="d0">5</data>
+</node>
+<node id="음주운전">
+  <data key="d0">3</data>
+</node>
+<node id="탄핵">
+  <data key="d0">4</data>
+</node>
+<node id="통일">
+  <data key="d0">3</data>
+</node>
+<node id="황선자">
+  <data key="d0">6</data>
+</node>
+<node id="대통령_손">
+  <data key="d0">4</data>
+</node>
+<node id="손_빵">
+  <data key="d0">5</data>
+</node>
+<node id="대통령_유럽">
+  <data key="d0">3</data>
+</node>
+<node id="유럽_순방">
+  <data key="d0">4</data>
+</node>
+<node id="대통령_음주운전">
+  <data key="d0">1</data>
+</node>
+<node id="음주운전_살인">
+  <data key="d0">2</data>
+</node>
+<node id="대통령_일">
+  <data key="d0">3</data>
+</node>
+<node id="일_음주운전">
+  <data key="d0">1</data>
+</node>
+<node id="대통령_탄핵">
+  <data key="d0">2</data>
+</node>
+<node id="탄핵_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="탄핵_파면">
+  <data key="d0">1</data>
+</node>
+<node id="대통령_통일">
+  <data key="d0">1</data>
+</node>
+<node id="통일_미래">
+  <data key="d0">1</data>
+</node>
+<node id="한동안">
+  <data key="d0">1</data>
+</node>
+<node id="직_것">
+  <data key="d0">1</data>
+</node>
+<node id="대한민국">
+  <data key="d0">2</data>
+</node>
+<node id="인용">
+  <data key="d0">1</data>
+</node>
+<node id="대한민국_인용">
+  <data key="d0">1</data>
+</node>
+<node id="인용_한국">
+  <data key="d0">1</data>
+</node>
+<node id="대형">
+  <data key="d0">1</data>
+</node>
+<node id="사건">
+  <data key="d0">2</data>
+</node>
+<node id="대형_사건">
+  <data key="d0">1</data>
+</node>
+<node id="사건_산하">
+  <data key="d0">1</data>
+</node>
+<node id="댓글">
+  <data key="d0">3</data>
+</node>
+<node id="이해">
+  <data key="d0">2</data>
+</node>
+<node id="이해_칭찬">
+  <data key="d0">1</data>
+</node>
+<node id="데일리">
+  <data key="d0">1</data>
+</node>
+<node id="선물">
+  <data key="d0">1</data>
+</node>
+<node id="데일리_선물">
+  <data key="d0">1</data>
+</node>
+<node id="선물_취미">
+  <data key="d0">1</data>
+</node>
+<node id="도면">
+  <data key="d0">1</data>
+</node>
+<node id="학규">
+  <data key="d0">1</data>
+</node>
+<node id="도면_학규">
+  <data key="d0">1</data>
+</node>
+<node id="학규_야">
+  <data key="d0">1</data>
+</node>
+<node id="도어">
+  <data key="d0">2</data>
+</node>
+<node id="자료">
+  <data key="d0">1</data>
+</node>
+<node id="전담">
+  <data key="d0">1</data>
+</node>
+<node id="도어_자료">
+  <data key="d0">1</data>
+</node>
+<node id="자료_접수">
+  <data key="d0">1</data>
+</node>
+<node id="도어_전담">
+  <data key="d0">1</data>
+</node>
+<node id="전담_마">
+  <data key="d0">1</data>
+</node>
+<node id="독극물">
+  <data key="d0">1</data>
+</node>
+<node id="쓰레기">
+  <data key="d0">4</data>
+</node>
+<node id="독극물_쓰레기">
+  <data key="d0">1</data>
+</node>
+<node id="쓰레기_강산">
+  <data key="d0">1</data>
+</node>
+<node id="진행">
+  <data key="d0">1</data>
+</node>
+<node id="진행_수">
+  <data key="d0">1</data>
+</node>
+<node id="동물">
+  <data key="d0">1</data>
+</node>
+<node id="동원">
+  <data key="d0">1</data>
+</node>
+<node id="압권">
+  <data key="d0">2</data>
+</node>
+<node id="동원_압권">
+  <data key="d0">1</data>
+</node>
+<node id="압권_이명">
+  <data key="d0">1</data>
+</node>
+<node id="드라이브">
+  <data key="d0">1</data>
+</node>
+<node id="브레이크">
+  <data key="d0">1</data>
+</node>
+<node id="드라이브_브레이크">
+  <data key="d0">1</data>
+</node>
+<node id="브레이크_워싱턴">
+  <data key="d0">1</data>
+</node>
+<node id="드릴">
+  <data key="d0">1</data>
+</node>
+<node id="드릴_요">
+  <data key="d0">1</data>
+</node>
+<node id="요_귀">
+  <data key="d0">1</data>
+</node>
+<node id="등_문">
+  <data key="d0">1</data>
+</node>
+<node id="문_일">
+  <data key="d0">1</data>
+</node>
+<node id="등_싸이">
+  <data key="d0">1</data>
+</node>
+<node id="싸이_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="등_지칭">
+  <data key="d0">1</data>
+</node>
+<node id="지칭_일반">
+  <data key="d0">1</data>
+</node>
+<node id="등등">
+  <data key="d0">1</data>
+</node>
+<node id="등등_김종인">
+  <data key="d0">1</data>
+</node>
+<node id="디스">
+  <data key="d0">1</data>
+</node>
+<node id="때_김병준">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_후보">
+  <data key="d0">3</data>
+</node>
+<node id="때_실체">
+  <data key="d0">1</data>
+</node>
+<node id="실체_파악">
+  <data key="d0">1</data>
+</node>
+<node id="르_한국인">
+  <data key="d0">1</data>
+</node>
+<node id="한국인_정치인">
+  <data key="d0">1</data>
+</node>
+<node id="마_타">
+  <data key="d0">2</data>
+</node>
+<node id="타_도어">
+  <data key="d0">2</data>
+</node>
+<node id="지시">
+  <data key="d0">2</data>
+</node>
+<node id="지시_시사">
+  <data key="d0">1</data>
+</node>
+<node id="정상회담">
+  <data key="d0">1</data>
+</node>
+<node id="정상회담_등">
+  <data key="d0">1</data>
+</node>
+<node id="만큼_소리">
+  <data key="d0">1</data>
+</node>
+<node id="소리_거">
+  <data key="d0">1</data>
+</node>
+<node id="말_국민">
+  <data key="d0">1</data>
+</node>
+<node id="말_다구">
+  <data key="d0">1</data>
+</node>
+<node id="다구_느낌">
+  <data key="d0">1</data>
+</node>
+<node id="번_반복">
+  <data key="d0">1</data>
+</node>
+<node id="멍청이">
+  <data key="d0">1</data>
+</node>
+<node id="멍청이_가짜">
+  <data key="d0">1</data>
+</node>
+<node id="면_오보">
+  <data key="d0">2</data>
+</node>
+<node id="오보_net">
+  <data key="d0">2</data>
+</node>
+<node id="모_르">
+  <data key="d0">1</data>
+</node>
+<node id="모야">
+  <data key="d0">1</data>
+</node>
+<node id="철새">
+  <data key="d0">3</data>
+</node>
+<node id="응_응">
+  <data key="d0">1</data>
+</node>
+<node id="보조금_서울">
+  <data key="d0">1</data>
+</node>
+<node id="무지">
+  <data key="d0">1</data>
+</node>
+<node id="박영선">
+  <data key="d0">2</data>
+</node>
+<node id="무지_박영선">
+  <data key="d0">1</data>
+</node>
+<node id="박영선_이종걸">
+  <data key="d0">1</data>
+</node>
+<node id="문_대통령">
+  <data key="d0">2</data>
+</node>
+<node id="문_양반">
+  <data key="d0">1</data>
+</node>
+<node id="양반_상당수">
+  <data key="d0">1</data>
+</node>
+<node id="일_그림">
+  <data key="d0">1</data>
+</node>
+<node id="문_재앙">
+  <data key="d0">2</data>
+</node>
+<node id="재앙_문">
+  <data key="d0">1</data>
+</node>
+<node id="문_죄인">
+  <data key="d0">2</data>
+</node>
+<node id="죄인_등">
+  <data key="d0">1</data>
+</node>
+<node id="파_이래">
+  <data key="d0">1</data>
+</node>
+<node id="원래">
+  <data key="d0">1</data>
+</node>
+<node id="인사">
+  <data key="d0">3</data>
+</node>
+<node id="재앙">
+  <data key="d0">2</data>
+</node>
+<node id="정권">
+  <data key="d0">6</data>
+</node>
+<node id="지지">
+  <data key="d0">9</data>
+</node>
+<node id="최순">
+  <data key="d0">1</data>
+</node>
+<node id="후보">
+  <data key="d0">3</data>
+</node>
+<node id="문재인_a4">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_김정은">
+  <data key="d0">6</data>
+</node>
+<node id="문재인_드라이브">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_문">
+  <data key="d0">1</data>
+</node>
+<node id="원래_능력">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_인사">
+  <data key="d0">1</data>
+</node>
+<node id="인사_중">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_정권">
+  <data key="d0">5</data>
+</node>
+<node id="정권_부처">
+  <data key="d0">1</data>
+</node>
+<node id="정부_경제">
+  <data key="d0">3</data>
+</node>
+<node id="정부_년차">
+  <data key="d0">1</data>
+</node>
+<node id="정부_에">
+  <data key="d0">1</data>
+</node>
+<node id="정부_최대">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_최순">
+  <data key="d0">1</data>
+</node>
+<node id="최순_실">
+  <data key="d0">1</data>
+</node>
+<node id="문재인_트럼프">
+  <data key="d0">4</data>
+</node>
+<node id="트럼프_정부">
+  <data key="d0">4</data>
+</node>
+<node id="후보_마">
+  <data key="d0">1</data>
+</node>
+<node id="물_미">
+  <data key="d0">1</data>
+</node>
+<node id="미_투라">
+  <data key="d0">1</data>
+</node>
+<node id="물_재인">
+  <data key="d0">1</data>
+</node>
+<node id="재인_셀프">
+  <data key="d0">1</data>
+</node>
+<node id="물자">
+  <data key="d0">1</data>
+</node>
+<node id="반입">
+  <data key="d0">1</data>
+</node>
+<node id="물자_반입">
+  <data key="d0">1</data>
+</node>
+<node id="반입_전기">
+  <data key="d0">1</data>
+</node>
+<node id="투라_봇물">
+  <data key="d0">1</data>
+</node>
+<node id="미국">
+  <data key="d0">11</data>
+</node>
+<node id="미국_공조">
+  <data key="d0">2</data>
+</node>
+<node id="미국_대통령">
+  <data key="d0">1</data>
+</node>
+<node id="미니">
+  <data key="d0">1</data>
+</node>
+<node id="태양광">
+  <data key="d0">1</data>
+</node>
+<node id="미니_태양광">
+  <data key="d0">1</data>
+</node>
+<node id="태양광_친">
+  <data key="d0">1</data>
+</node>
+<node id="실천">
+  <data key="d0">1</data>
+</node>
+<node id="미래_실천">
+  <data key="d0">1</data>
+</node>
+<node id="실천_저주">
+  <data key="d0">1</data>
+</node>
+<node id="바보">
+  <data key="d0">1</data>
+</node>
+<node id="바보_멍청이">
+  <data key="d0">1</data>
+</node>
+<node id="취임식">
+  <data key="d0">1</data>
+</node>
+<node id="하도">
+  <data key="d0">1</data>
+</node>
+<node id="박근혜_년">
+  <data key="d0">1</data>
+</node>
+<node id="박근혜_대통령">
+  <data key="d0">1</data>
+</node>
+<node id="박근혜_취임식">
+  <data key="d0">1</data>
+</node>
+<node id="취임식_소방관">
+  <data key="d0">1</data>
+</node>
+<node id="박근혜_탄핵">
+  <data key="d0">1</data>
+</node>
+<node id="탄핵_대통령">
+  <data key="d0">1</data>
+</node>
+<node id="통일_대박">
+  <data key="d0">1</data>
+</node>
+<node id="박근혜_하도">
+  <data key="d0">1</data>
+</node>
+<node id="하도_개판">
+  <data key="d0">1</data>
+</node>
+<node id="의원">
+  <data key="d0">6</data>
+</node>
+<node id="이종걸">
+  <data key="d0">1</data>
+</node>
+<node id="박영선_의원">
+  <data key="d0">1</data>
+</node>
+<node id="의원_악">
+  <data key="d0">1</data>
+</node>
+<node id="이종걸_등등">
+  <data key="d0">1</data>
+</node>
+<node id="반도">
+  <data key="d0">2</data>
+</node>
+<node id="역_사상">
+  <data key="d0">1</data>
+</node>
+<node id="반복">
+  <data key="d0">1</data>
+</node>
+<node id="반복_이">
+  <data key="d0">1</data>
+</node>
+<node id="이_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="반응">
+  <data key="d0">1</data>
+</node>
+<node id="짜증">
+  <data key="d0">1</data>
+</node>
+<node id="반응_짜증">
+  <data key="d0">1</data>
+</node>
+<node id="짜증_것">
+  <data key="d0">1</data>
+</node>
+<node id="전기">
+  <data key="d0">2</data>
+</node>
+<node id="전기_생산">
+  <data key="d0">1</data>
+</node>
+<node id="승인">
+  <data key="d0">7</data>
+</node>
+<node id="잘못">
+  <data key="d0">2</data>
+</node>
+<node id="승인_아무것">
+  <data key="d0">1</data>
+</node>
+<node id="잘못_정보">
+  <data key="d0">1</data>
+</node>
+<node id="폐기">
+  <data key="d0">2</data>
+</node>
+<node id="발전_폐기">
+  <data key="d0">1</data>
+</node>
+<node id="폐기_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="방송">
+  <data key="d0">4</data>
+</node>
+<node id="언론인">
+  <data key="d0">1</data>
+</node>
+<node id="방송_언론인">
+  <data key="d0">1</data>
+</node>
+<node id="언론인_지식인">
+  <data key="d0">1</data>
+</node>
+<node id="베_등">
+  <data key="d0">1</data>
+</node>
+<node id="병영">
+  <data key="d0">1</data>
+</node>
+<node id="부조리">
+  <data key="d0">1</data>
+</node>
+<node id="병영_부조리">
+  <data key="d0">1</data>
+</node>
+<node id="부조리_신고">
+  <data key="d0">1</data>
+</node>
+<node id="보궐_대선">
+  <data key="d0">1</data>
+</node>
+<node id="조선">
+  <data key="d0">1</data>
+</node>
+<node id="중앙일보">
+  <data key="d0">2</data>
+</node>
+<node id="조선_기레기">
+  <data key="d0">1</data>
+</node>
+<node id="중앙일보_면">
+  <data key="d0">2</data>
+</node>
+<node id="서울">
+  <data key="d0">2</data>
+</node>
+<node id="서울_미니">
+  <data key="d0">1</data>
+</node>
+<node id="봇물">
+  <data key="d0">1</data>
+</node>
+<node id="봇물_것">
+  <data key="d0">1</data>
+</node>
+<node id="신고">
+  <data key="d0">1</data>
+</node>
+<node id="신고_전년">
+  <data key="d0">1</data>
+</node>
+<node id="부처">
+  <data key="d0">1</data>
+</node>
+<node id="부처_적">
+  <data key="d0">1</data>
+</node>
+<node id="부탁">
+  <data key="d0">3</data>
+</node>
+<node id="부탁_드릴">
+  <data key="d0">1</data>
+</node>
+<node id="북한">
+  <data key="d0">13</data>
+</node>
+<node id="주장">
+  <data key="d0">3</data>
+</node>
+<node id="북한_붕괴">
+  <data key="d0">1</data>
+</node>
+<node id="붕괴_한국">
+  <data key="d0">1</data>
+</node>
+<node id="북한_주장">
+  <data key="d0">1</data>
+</node>
+<node id="주장_대변인">
+  <data key="d0">1</data>
+</node>
+<node id="진리">
+  <data key="d0">2</data>
+</node>
+<node id="진리_모">
+  <data key="d0">1</data>
+</node>
+<node id="한국_남한">
+  <data key="d0">1</data>
+</node>
+<node id="워싱턴">
+  <data key="d0">1</data>
+</node>
+<node id="워싱턴_반응">
+  <data key="d0">1</data>
+</node>
+<node id="비대">
+  <data key="d0">1</data>
+</node>
+<node id="위원장">
+  <data key="d0">2</data>
+</node>
+<node id="비대_위원장">
+  <data key="d0">1</data>
+</node>
+<node id="위원장_때">
+  <data key="d0">1</data>
+</node>
+<node id="빵_황선자">
+  <data key="d0">5</data>
+</node>
+<node id="황선자_예언">
+  <data key="d0">6</data>
+</node>
+<node id="산하_독극물">
+  <data key="d0">1</data>
+</node>
+<node id="사고">
+  <data key="d0">1</data>
+</node>
+<node id="실수">
+  <data key="d0">1</data>
+</node>
+<node id="사고_실수">
+  <data key="d0">1</data>
+</node>
+<node id="실수_살인">
+  <data key="d0">1</data>
+</node>
+<node id="사대">
+  <data key="d0">2</data>
+</node>
+<node id="매국노">
+  <data key="d0">3</data>
+</node>
+<node id="사람_삶">
+  <data key="d0">1</data>
+</node>
+<node id="삶_행">
+  <data key="d0">1</data>
+</node>
+<node id="사무소">
+  <data key="d0">2</data>
+</node>
+<node id="십수">
+  <data key="d0">1</data>
+</node>
+<node id="사무소_십수">
+  <data key="d0">1</data>
+</node>
+<node id="십수_물자">
+  <data key="d0">1</data>
+</node>
+<node id="최장">
+  <data key="d0">1</data>
+</node>
+<node id="사상_철새">
+  <data key="d0">1</data>
+</node>
+<node id="정치인">
+  <data key="d0">7</data>
+</node>
+<node id="최장_개월">
+  <data key="d0">1</data>
+</node>
+<node id="사이트">
+  <data key="d0">1</data>
+</node>
+<node id="상당">
+  <data key="d0">2</data>
+</node>
+<node id="사이트_상당">
+  <data key="d0">1</data>
+</node>
+<node id="상당_시간">
+  <data key="d0">1</data>
+</node>
+<node id="살인">
+  <data key="d0">4</data>
+</node>
+<node id="살인_행위">
+  <data key="d0">4</data>
+</node>
+<node id="행위_사람">
+  <data key="d0">1</data>
+</node>
+<node id="행위_처벌">
+  <data key="d0">1</data>
+</node>
+<node id="행_com">
+  <data key="d0">1</data>
+</node>
+<node id="시간_것">
+  <data key="d0">1</data>
+</node>
+<node id="상당수">
+  <data key="d0">1</data>
+</node>
+<node id="상당수_바보">
+  <data key="d0">1</data>
+</node>
+<node id="생각_김종인">
+  <data key="d0">1</data>
+</node>
+<node id="일_베">
+  <data key="d0">1</data>
+</node>
+<node id="생산">
+  <data key="d0">2</data>
+</node>
+<node id="생산_전기">
+  <data key="d0">1</data>
+</node>
+<node id="전기_지도">
+  <data key="d0">1</data>
+</node>
+<node id="취미">
+  <data key="d0">1</data>
+</node>
+<node id="취미_동물">
+  <data key="d0">1</data>
+</node>
+<node id="설명">
+  <data key="d0">2</data>
+</node>
+<node id="자주">
+  <data key="d0">2</data>
+</node>
+<node id="설명_앞으로">
+  <data key="d0">1</data>
+</node>
+<node id="앞으로_자주">
+  <data key="d0">1</data>
+</node>
+<node id="성장">
+  <data key="d0">1</data>
+</node>
+<node id="성장_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="성태">
+  <data key="d0">1</data>
+</node>
+<node id="투라">
+  <data key="d0">1</data>
+</node>
+<node id="성태_물">
+  <data key="d0">1</data>
+</node>
+<node id="셀프">
+  <data key="d0">1</data>
+</node>
+<node id="셀프_디스">
+  <data key="d0">1</data>
+</node>
+<node id="디스_com">
+  <data key="d0">1</data>
+</node>
+<node id="주도">
+  <data key="d0">1</data>
+</node>
+<node id="주도_성장">
+  <data key="d0">1</data>
+</node>
+<node id="소방관">
+  <data key="d0">1</data>
+</node>
+<node id="의자">
+  <data key="d0">1</data>
+</node>
+<node id="소방관_의자">
+  <data key="d0">1</data>
+</node>
+<node id="의자_동원">
+  <data key="d0">1</data>
+</node>
+<node id="소통">
+  <data key="d0">1</data>
+</node>
+<node id="왕이">
+  <data key="d0">1</data>
+</node>
+<node id="소통_왕이">
+  <data key="d0">1</data>
+</node>
+<node id="왕이_당">
+  <data key="d0">1</data>
+</node>
+<node id="행위_거짓">
+  <data key="d0">1</data>
+</node>
+<node id="하늘">
+  <data key="d0">1</data>
+</node>
+<node id="등_신정">
+  <data key="d0">1</data>
+</node>
+<node id="수_문재인">
+  <data key="d0">2</data>
+</node>
+<node id="수_의문">
+  <data key="d0">1</data>
+</node>
+<node id="의문_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="수돗물">
+  <data key="d0">1</data>
+</node>
+<node id="수장">
+  <data key="d0">1</data>
+</node>
+<node id="수장_가동">
+  <data key="d0">1</data>
+</node>
+<node id="아무것">
+  <data key="d0">2</data>
+</node>
+<node id="아무것_것">
+  <data key="d0">1</data>
+</node>
+<node id="한국_말">
+  <data key="d0">1</data>
+</node>
+<node id="것_기억">
+  <data key="d0">1</data>
+</node>
+<node id="수돗물_공급">
+  <data key="d0">1</data>
+</node>
+<node id="시리즈">
+  <data key="d0">1</data>
+</node>
+<node id="시리즈_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="시사">
+  <data key="d0">2</data>
+</node>
+<node id="타임즈">
+  <data key="d0">1</data>
+</node>
+<node id="시사_타임즈">
+  <data key="d0">1</data>
+</node>
+<node id="타임즈_탁">
+  <data key="d0">1</data>
+</node>
+<node id="전년_대비">
+  <data key="d0">1</data>
+</node>
+<node id="실_대한민국">
+  <data key="d0">1</data>
+</node>
+<node id="저주">
+  <data key="d0">1</data>
+</node>
+<node id="저주_조중동">
+  <data key="d0">1</data>
+</node>
+<node id="실체">
+  <data key="d0">1</data>
+</node>
+<node id="파악">
+  <data key="d0">1</data>
+</node>
+<node id="파악_잘못">
+  <data key="d0">1</data>
+</node>
+<node id="윈윈">
+  <data key="d0">5</data>
+</node>
+<node id="윈윈_남북">
+  <data key="d0">5</data>
+</node>
+<node id="싹쓸이">
+  <data key="d0">1</data>
+</node>
+<node id="싹쓸이_co">
+  <data key="d0">1</data>
+</node>
+<node id="아무도">
+  <data key="d0">1</data>
+</node>
+<node id="아무도_안">
+  <data key="d0">1</data>
+</node>
+<node id="안_경상수지">
+  <data key="d0">1</data>
+</node>
+<node id="아이폰">
+  <data key="d0">3</data>
+</node>
+<node id="아이폰_케이스">
+  <data key="d0">1</data>
+</node>
+<node id="케이스_갤럭시">
+  <data key="d0">1</data>
+</node>
+<node id="아침">
+  <data key="d0">1</data>
+</node>
+<node id="한국_정부">
+  <data key="d0">2</data>
+</node>
+<node id="악_감">
+  <data key="d0">1</data>
+</node>
+<node id="안함">
+  <data key="d0">3</data>
+</node>
+<node id="연평도">
+  <data key="d0">2</data>
+</node>
+<node id="이당">
+  <data key="d0">1</data>
+</node>
+<node id="알라_이당">
+  <data key="d0">1</data>
+</node>
+<node id="이당_저당">
+  <data key="d0">1</data>
+</node>
+<node id="이명">
+  <data key="d0">2</data>
+</node>
+<node id="이명_박근혜">
+  <data key="d0">2</data>
+</node>
+<node id="자주_자주">
+  <data key="d0">1</data>
+</node>
+<node id="야_너는">
+  <data key="d0">1</data>
+</node>
+<node id="야_지금">
+  <data key="d0">1</data>
+</node>
+<node id="지금_여당">
+  <data key="d0">1</data>
+</node>
+<node id="양반">
+  <data key="d0">1</data>
+</node>
+<node id="지식인">
+  <data key="d0">1</data>
+</node>
+<node id="지식인_과학">
+  <data key="d0">1</data>
+</node>
+<node id="에_협조">
+  <data key="d0">1</data>
+</node>
+<node id="협조_해서">
+  <data key="d0">1</data>
+</node>
+<node id="여당">
+  <data key="d0">2</data>
+</node>
+<node id="여당_잘">
+  <data key="d0">1</data>
+</node>
+<node id="잘_문재인">
+  <data key="d0">1</data>
+</node>
+<node id="연말">
+  <data key="d0">2</data>
+</node>
+<node id="연말_교체">
+  <data key="d0">2</data>
+</node>
+<node id="연속">
+  <data key="d0">1</data>
+</node>
+<node id="흑자">
+  <data key="d0">2</data>
+</node>
+<node id="흑자_행진">
+  <data key="d0">1</data>
+</node>
+<node id="연합뉴스">
+  <data key="d0">1</data>
+</node>
+<node id="연합뉴스_네이버">
+  <data key="d0">1</data>
+</node>
+<node id="예언">
+  <data key="d0">6</data>
+</node>
+<node id="오_강경">
+  <data key="d0">1</data>
+</node>
+<node id="오보">
+  <data key="d0">2</data>
+</node>
+<node id="옴_겨">
+  <data key="d0">1</data>
+</node>
+<node id="장관">
+  <data key="d0">4</data>
+</node>
+<node id="장관_제재">
+  <data key="d0">1</data>
+</node>
+<node id="귀_com">
+  <data key="d0">1</data>
+</node>
+<node id="요지경">
+  <data key="d0">1</data>
+</node>
+<node id="정치인_중">
+  <data key="d0">1</data>
+</node>
+<node id="조롱">
+  <data key="d0">1</data>
+</node>
+<node id="조롱_것">
+  <data key="d0">1</data>
+</node>
+<node id="우_경">
+  <data key="d0">1</data>
+</node>
+<node id="운_철새">
+  <data key="d0">1</data>
+</node>
+<node id="철새_야">
+  <data key="d0">1</data>
+</node>
+<node id="순방">
+  <data key="d0">4</data>
+</node>
+<node id="음주운전_사고">
+  <data key="d0">1</data>
+</node>
+<node id="응_운">
+  <data key="d0">1</data>
+</node>
+<node id="의문">
+  <data key="d0">2</data>
+</node>
+<node id="의문_건">
+  <data key="d0">1</data>
+</node>
+<node id="건_아침">
+  <data key="d0">1</data>
+</node>
+<node id="의적">
+  <data key="d0">1</data>
+</node>
+<node id="의적_폐">
+  <data key="d0">1</data>
+</node>
+<node id="폐_4대강">
+  <data key="d0">1</data>
+</node>
+<node id="종교인">
+  <data key="d0">1</data>
+</node>
+<node id="종교인_net">
+  <data key="d0">1</data>
+</node>
+<node id="저당">
+  <data key="d0">1</data>
+</node>
+<node id="저당_옴">
+  <data key="d0">1</data>
+</node>
+<node id="이래_트럼프">
+  <data key="d0">1</data>
+</node>
+<node id="트럼프_트럼프">
+  <data key="d0">1</data>
+</node>
+<node id="이름">
+  <data key="d0">6</data>
+</node>
+<node id="포장">
+  <data key="d0">1</data>
+</node>
+<node id="이름_포장">
+  <data key="d0">1</data>
+</node>
+<node id="포장_국가">
+  <data key="d0">1</data>
+</node>
+<node id="폼페이">
+  <data key="d0">1</data>
+</node>
+<node id="폼페이_오">
+  <data key="d0">1</data>
+</node>
+<node id="이재명">
+  <data key="d0">8</data>
+</node>
+<node id="혜경">
+  <data key="d0">1</data>
+</node>
+<node id="이재명_혜경">
+  <data key="d0">1</data>
+</node>
+<node id="혜경_궁">
+  <data key="d0">1</data>
+</node>
+<node id="이정">
+  <data key="d0">1</data>
+</node>
+<node id="이정_도면">
+  <data key="d0">1</data>
+</node>
+<node id="이정렬">
+  <data key="d0">1</data>
+</node>
+<node id="판사">
+  <data key="d0">1</data>
+</node>
+<node id="이정렬_판사">
+  <data key="d0">1</data>
+</node>
+<node id="판사_이재명">
+  <data key="d0">1</data>
+</node>
+<node id="이제">
+  <data key="d0">3</data>
+</node>
+<node id="이제_정">
+  <data key="d0">1</data>
+</node>
+<node id="정_수장">
+  <data key="d0">1</data>
+</node>
+<node id="칭찬">
+  <data key="d0">1</data>
+</node>
+<node id="칭찬_해주시">
+  <data key="d0">1</data>
+</node>
+<node id="인간">
+  <data key="d0">9</data>
+</node>
+<node id="인간_생각">
+  <data key="d0">1</data>
+</node>
+<node id="인사_반도">
+  <data key="d0">1</data>
+</node>
+<node id="중_인사">
+  <data key="d0">1</data>
+</node>
+<node id="한국_닭">
+  <data key="d0">1</data>
+</node>
+<node id="일반">
+  <data key="d0">1</data>
+</node>
+<node id="일반_사이트">
+  <data key="d0">1</data>
+</node>
+<node id="일상">
+  <data key="d0">1</data>
+</node>
+<node id="일상_데일리">
+  <data key="d0">1</data>
+</node>
+<node id="한당_비대">
+  <data key="d0">1</data>
+</node>
+<node id="접수">
+  <data key="d0">1</data>
+</node>
+<node id="접수_때">
+  <data key="d0">1</data>
+</node>
+<node id="자주_부탁">
+  <data key="d0">1</data>
+</node>
+<node id="자칭">
+  <data key="d0">1</data>
+</node>
+<node id="트위터">
+  <data key="d0">2</data>
+</node>
+<node id="트위터_문">
+  <data key="d0">1</data>
+</node>
+<node id="정보">
+  <data key="d0">2</data>
+</node>
+<node id="잘못_건">
+  <data key="d0">1</data>
+</node>
+<node id="정보_말">
+  <data key="d0">1</data>
+</node>
+<node id="제재_해제">
+  <data key="d0">1</data>
+</node>
+<node id="죄인">
+  <data key="d0">2</data>
+</node>
+<node id="재인">
+  <data key="d0">1</data>
+</node>
+<node id="조중동">
+  <data key="d0">1</data>
+</node>
+<node id="조중동_폐간">
+  <data key="d0">1</data>
+</node>
+<node id="폐_청산">
+  <data key="d0">3</data>
+</node>
+<node id="지도">
+  <data key="d0">1</data>
+</node>
+<node id="지도_이제">
+  <data key="d0">1</data>
+</node>
+<node id="절반">
+  <data key="d0">1</data>
+</node>
+<node id="정면">
+  <data key="d0">4</data>
+</node>
+<node id="충돌">
+  <data key="d0">4</data>
+</node>
+<node id="정면_충돌">
+  <data key="d0">4</data>
+</node>
+<node id="충돌_하나">
+  <data key="d0">4</data>
+</node>
+<node id="이해찬">
+  <data key="d0">5</data>
+</node>
+<node id="최대">
+  <data key="d0">1</data>
+</node>
+<node id="협조">
+  <data key="d0">1</data>
+</node>
+<node id="정부_남북">
+  <data key="d0">1</data>
+</node>
+<node id="정부_대북">
+  <data key="d0">4</data>
+</node>
+<node id="최대_의적">
+  <data key="d0">1</data>
+</node>
+<node id="효과">
+  <data key="d0">2</data>
+</node>
+<node id="효과_주장">
+  <data key="d0">1</data>
+</node>
+<node id="정치">
+  <data key="d0">3</data>
+</node>
+<node id="하기">
+  <data key="d0">1</data>
+</node>
+<node id="정치_르">
+  <data key="d0">1</data>
+</node>
+<node id="르_하기">
+  <data key="d0">1</data>
+</node>
+<node id="제일">
+  <data key="d0">1</data>
+</node>
+<node id="정치인_김종인">
+  <data key="d0">1</data>
+</node>
+<node id="정치인_방송">
+  <data key="d0">1</data>
+</node>
+<node id="중_제일">
+  <data key="d0">1</data>
+</node>
+<node id="제가">
+  <data key="d0">2</data>
+</node>
+<node id="혐오">
+  <data key="d0">1</data>
+</node>
+<node id="제일_혐오">
+  <data key="d0">1</data>
+</node>
+<node id="혐오_인간">
+  <data key="d0">1</data>
+</node>
+<node id="해제">
+  <data key="d0">2</data>
+</node>
+<node id="제재_대상">
+  <data key="d0">1</data>
+</node>
+<node id="해제_검토">
+  <data key="d0">1</data>
+</node>
+<node id="폐간">
+  <data key="d0">1</data>
+</node>
+<node id="폐간_국민">
+  <data key="d0">1</data>
+</node>
+<node id="지칭">
+  <data key="d0">1</data>
+</node>
+<node id="주장_아무도">
+  <data key="d0">1</data>
+</node>
+<node id="한국인">
+  <data key="d0">2</data>
+</node>
+<node id="진표">
+  <data key="d0">1</data>
+</node>
+<node id="티_회">
+  <data key="d0">1</data>
+</node>
+<node id="처벌">
+  <data key="d0">3</data>
+</node>
+<node id="처벌_강화">
+  <data key="d0">2</data>
+</node>
+<node id="청산_낙제점">
+  <data key="d0">1</data>
+</node>
+<node id="청산_요지경">
+  <data key="d0">1</data>
+</node>
+<node id="요지경_속">
+  <data key="d0">1</data>
+</node>
+<node id="출처">
+  <data key="d0">8</data>
+</node>
+<node id="출처_연합뉴스">
+  <data key="d0">1</data>
+</node>
+<node id="특파원">
+  <data key="d0">4</data>
+</node>
+<node id="하나_특파원">
+  <data key="d0">4</data>
+</node>
+<node id="친_협동조합">
+  <data key="d0">1</data>
+</node>
+<node id="협동조합_곳">
+  <data key="d0">1</data>
+</node>
+<node id="해주시">
+  <data key="d0">1</data>
+</node>
+<node id="해주시_소통">
+  <data key="d0">1</data>
+</node>
+<node id="케이스_박근혜">
+  <data key="d0">1</data>
+</node>
+<node id="케이스_일상">
+  <data key="d0">1</data>
+</node>
+<node id="케이스_폰">
+  <data key="d0">1</data>
+</node>
+<node id="폰_케이스">
+  <data key="d0">1</data>
+</node>
+<node id="탁_경선">
+  <data key="d0">1</data>
+</node>
+<node id="파면">
+  <data key="d0">2</data>
+</node>
+<node id="파면_박근혜">
+  <data key="d0">1</data>
+</node>
+<node id="협동조합">
+  <data key="d0">1</data>
+</node>
+<node id="트럼프_의문">
+  <data key="d0">1</data>
+</node>
+<node id="회_놀">
+  <data key="d0">1</data>
+</node>
+<node id="연_계기">
+  <data key="d0">1</data>
+</node>
+<node id="국민_미래">
+  <data key="d0">1</data>
+</node>
+<node id="수_경고">
+  <data key="d0">1</data>
+</node>
+<node id="표지">
+  <data key="d0">2</data>
+</node>
+<node id="장식">
+  <data key="d0">2</data>
+</node>
+<node id="프란치스코">
+  <data key="d0">3</data>
+</node>
+<node id="교황">
+  <data key="d0">8</data>
+</node>
+<node id="해서">
+  <data key="d0">1</data>
+</node>
+<node id="해서_정치">
+  <data key="d0">1</data>
+</node>
+<node id="행진">
+  <data key="d0">1</data>
+</node>
+<node id="행진_출처">
+  <data key="d0">1</data>
+</node>
+<edge source="4대강" target="사업">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="4대강" target="의적">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="사업" target="대형">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="4대강_사업" target="사업_대형">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="4대강_사업" target="폐_4대강">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="사업_대형" target="대형_사건">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="a4" target="용지">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="a4" target="문재인">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="용지" target="조롱">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="a4_용지" target="용지_조롱">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="a4_용지" target="문재인_a4">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="용지_조롱" target="조롱_것">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="be_님" target="님_공유">
+  <data key="d1">50.08333333333335</data>
+</edge>
+<edge source="co_kr" target="kr_나중">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="co_kr" target="kr_핸드폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="co_kr" target="동물">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="co_kr" target="싹쓸이_co">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="kr_나중" target="나중_핵">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="kr_핸드폰" target="핸드폰_케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="com" target="문재인_원래">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="com" target="시사_문">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="com" target="진표_티">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="com" target="드릴">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="com" target="디스">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="com" target="문재인">
+  <data key="d1">35.611111111111114</data>
+</edge>
+<edge source="com" target="행위">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="문재인_원래" target="원래_능력">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="시사_문" target="문_대통령">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="진표_티" target="티_회">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="kr" target="나중">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="kr" target="핸드폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="kr" target="싹쓸이">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="나중" target="발전">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="핸드폰" target="케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="나중_핵" target="핵_발전">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="핸드폰_케이스" target="케이스_폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="net" target="남북">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="net" target="실현">
+  <data key="d1">71.97126436781608</data>
+</edge>
+<edge source="net" target="중앙">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="net" target="혼수">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="net" target="노릇">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="net" target="오보">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="net" target="종교인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="net" target="필요">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="남북" target="관계">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="남북" target="군사">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="남북" target="안보">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="남북" target="윈윈">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="남북" target="정부">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="실현" target="윈윈">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="중앙" target="기레기">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="혼수" target="성태">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="net_남북" target="남북_군사">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="net_남북" target="노릇_net">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="남북_군사" target="군사_합의">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="net_실현" target="실현_윈윈">
+  <data key="d1">71.97126436781608</data>
+</edge>
+<edge source="net_실현" target="종교인_net">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="실현_윈윈" target="윈윈_남북">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="net_중앙" target="중앙_기레기">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="net_중앙" target="오보_net">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="중앙_기레기" target="기레기_가짜">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="net_혼수" target="혼수_성태">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="net_혼수" target="필요_net">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="혼수_성태" target="성태_물">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="가동" target="개성">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="가동" target="수장">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개성" target="시내">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개성" target="연락">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개성" target="문재인">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="가동_개성" target="개성_시내">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="가동_개성" target="수장_가동">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개성_시내" target="시내_수돗물">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="가짜" target="뉴스">
+  <data key="d1">149.33711433756807</data>
+</edge>
+<edge source="가짜" target="싸이">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="가짜" target="기레기">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="가짜" target="멍청이">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="뉴스" target="네이버">
+  <data key="d1">120.35526315789473</data>
+</edge>
+<edge source="뉴스" target="뉴스_소득">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="뉴스" target="보도">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="뉴스" target="소득">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="뉴스" target="연합뉴스_네이버">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="싸이" target="문재인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="가짜_뉴스" target="뉴스_보도">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="가짜_뉴스" target="기레기_가짜">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="뉴스_보도" target="보도_조선">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="가짜_생각" target="생각_일">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="가짜_생각" target="멍청이_가짜">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="생각_일" target="일_베">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="감_상당" target="상당_김현정">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="감_상당" target="악_감">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="상당_김현정" target="김현정_뉴스쇼">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="강_경화" target="경화_외교부">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="강_경화" target="대통령_일">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경화_외교부" target="외교부_장관">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="강경" target="교육">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="강경" target="폼페이">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="교육" target="트럼프">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="강경_교육" target="교육_것">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="강경_교육" target="오_강경">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="교육_것" target="것_트럼프">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="강산" target="목숨">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="강산" target="쓰레기">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="목숨" target="보조금_서울">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="강산_때" target="때_목숨">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="강산_때" target="쓰레기_강산">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="강화" target="대책">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="강화" target="처벌">
+  <data key="d1">68.0344827586207</data>
+</edge>
+<edge source="대책" target="근절">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="대책" target="마련">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="대책" target="필요">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="강화_대책" target="대책_마련">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="강화_대책" target="처벌_강화">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="대책_마련" target="마련_지시">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="개_누리" target="누리_자">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="개_누리" target="계기">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="누리_자" target="자_한당">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="개선" target="발언">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="개선" target="고용">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="발언" target="검토">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="발언" target="승인">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="발언" target="잘못">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="개선_발언" target="발언_잘못">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="개선_발언" target="질_개선">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="발언_잘못" target="잘못_정보">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="시내" target="수돗물">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="연락" target="사무소">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="시내_수돗물" target="수돗물_공급">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개성_연락" target="연락_사무소">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개성_연락" target="문재인_개성">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="연락_사무소" target="사무소_십수">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="개월_연속" target="연속_흑자">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="개월_연속" target="최장_개월">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="연속_흑자" target="흑자_행진">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="개인" target="대선">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="개인" target="혜경">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="대선" target="경선">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="대선" target="당선">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="대선" target="보궐">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="개인_생각" target="생각_대선">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="개인_생각" target="거_개인">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="생각_대선" target="대선_경선">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="개판" target="보궐">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="개판" target="하도">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="개판_운" target="운_보궐">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="개판_운" target="하도_개판">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="운_보궐" target="보궐_대선">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="갤럭시" target="케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스" target="아이폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스" target="박근혜">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스" target="일상">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스" target="케이스">
+  <data key="d1">169.0</data>
+</edge>
+<edge source="갤럭시_케이스" target="케이스_케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="갤럭시_케이스" target="케이스_갤럭시">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스_케이스" target="케이스_일상">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스_케이스" target="케이스_케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="거_개인" target="궁_거">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="거_인정" target="인정_수">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="거_인정" target="소리_거">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="인정_수" target="수_문재인">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="거짓" target="신정">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓" target="행위">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="신정" target="김병준_정부">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓_쇼" target="쇼_등">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓_쇼" target="행위_거짓">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="쇼_등" target="등_신정">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓말" target="평화">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓말" target="공조">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="평화" target="이름">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓말_평화" target="평화_이름">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="거짓말_평화" target="공조_거짓말">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="평화_이름" target="이름_포장">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="건_생각" target="생각_것">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="건_생각" target="잘못_건">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="검토" target="해제">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="검토_발언" target="발언_승인">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="검토_발언" target="해제_검토">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="발언_승인" target="승인_아무것">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="것_말" target="말_번">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="것_말" target="아무것_것">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="말_번" target="번_반복">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="것_문" target="문_파">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="것_문" target="짜증_것">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="문_파" target="파_이래">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="것_문재인" target="문재인_고용">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="것_문재인" target="눈_것">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="문재인_고용" target="고용_질">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="것_승인" target="승인_한국">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="것_승인" target="조롱_것">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="승인_한국" target="한국_말">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="것_압권" target="압권_박근혜">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="것_압권" target="봇물_것">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="압권_박근혜" target="박근혜_취임식">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="것_트럼프" target="트럼프_문재인">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="트럼프_문재인" target="문재인_a4">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="것_한동안" target="한동안_무지">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="것_한동안" target="직_것">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="한동안_무지" target="무지_박영선">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="겨_모야" target="모야_응">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="겨_모야" target="옴_겨">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="모야_응" target="응_응">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="경_제가" target="제가_이정">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="경_제가" target="우_경">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="제가_이정" target="이정_도면">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="경고" target="김정은">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고" target="트럼프_미국">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고" target="한국">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고" target="공갈">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고" target="대상">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="김정은" target="공갈">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="김정은" target="마음">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="김정은" target="당선">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="김정은" target="문재인">
+  <data key="d1">131.2</data>
+</edge>
+<edge source="트럼프_미국" target="미국_대통령">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="한국" target="붕괴">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="한국" target="승인">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="한국" target="인용">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="한국" target="남한">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="한국" target="다구">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="한국" target="북한">
+  <data key="d1">56.5</data>
+</edge>
+<edge source="한국" target="아이폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="한국" target="정부">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="한국" target="제재">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고_김정은" target="김정은_핵">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고_김정은" target="김정은_경고">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="김정은_핵" target="핵_공갈">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고_한국" target="한국_제재">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경고_한국" target="쇼_경고">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="한국_제재" target="제재_대상">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경상수지" target="사상">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경상수지" target="아무도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="사상" target="반도">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="사상" target="철새">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="사상" target="최장">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경상수지_사상" target="사상_최장">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경상수지_사상" target="안_경상수지">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="사상_최장" target="최장_개월">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경선" target="기자">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="경선" target="문재인">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="경선" target="타임즈">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="기자" target="문재인">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="문재인" target="김종인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="문재인" target="명견만리">
+  <data key="d1">53.48563218390804</data>
+</edge>
+<edge source="문재인" target="고용">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="문재인" target="대통령">
+  <data key="d1">465.66637426900587</data>
+</edge>
+<edge source="문재인" target="드라이브">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="문재인" target="원래">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문재인" target="인사">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="문재인" target="재앙">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문재인" target="정권">
+  <data key="d1">109.06666666666666</data>
+</edge>
+<edge source="문재인" target="정부">
+  <data key="d1">477.9181718664477</data>
+</edge>
+<edge source="문재인" target="지지">
+  <data key="d1">46.86666666666667</data>
+</edge>
+<edge source="문재인" target="최순">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="문재인" target="트럼프">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="문재인" target="후보">
+  <data key="d1">84.5</data>
+</edge>
+<edge source="문재인" target="박근혜">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="문재인" target="반복">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="문재인" target="성장">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="문재인" target="시리즈">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="문재인" target="안보">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="문재인" target="여당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="문재인" target="왕이">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="문재인" target="의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="문재인" target="인정">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="문재인" target="탄핵">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="문재인" target="폐기">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="경선_기자" target="기자_문재인">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="경선_기자" target="탁_경선">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="기자_문재인" target="문재인_대통령">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="경선_때" target="때_문재인">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="경선_때" target="대선_경선">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="때_문재인" target="문재인_후보">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="경제" target="명견만리">
+  <data key="d1">62.10344827586207</data>
+</edge>
+<edge source="경제" target="정책">
+  <data key="d1">73.89097744360902</data>
+</edge>
+<edge source="경제" target="안보">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="경제" target="정부">
+  <data key="d1">90.61027568922306</data>
+</edge>
+<edge source="정책" target="설명">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="정책" target="효과">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경제_명견만리" target="명견만리_문재인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="경제_명견만리" target="안보_경제">
+  <data key="d1">62.10344827586207</data>
+</edge>
+<edge source="명견만리_문재인" target="문재인_대통령">
+  <data key="d1">53.48563218390804</data>
+</edge>
+<edge source="경제_정책" target="정책_설명">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="경제_정책" target="정책_효과">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경제_정책" target="정부_경제">
+  <data key="d1">73.89097744360902</data>
+</edge>
+<edge source="정책_설명" target="설명_앞으로">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="정책_효과" target="효과_주장">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="경화" target="외교부">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="경화" target="대통령">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="외교부" target="장관">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="외교부_장관" target="장관_제재">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="계기" target="김종인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="고용_질" target="질_개선">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="곳_절반" target="절반_싹쓸이">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="곳_절반" target="협동조합_곳">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="절반_싹쓸이" target="싹쓸이_co">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="공갈_쇼" target="쇼_경고">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="공갈_쇼" target="핵_공갈">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="공급" target="문재인_개성">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="공급" target="수돗물">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="공무원" target="증원">
+  <data key="d1">42.75</data>
+</edge>
+<edge source="공조" target="미국">
+  <data key="d1">79.0</data>
+</edge>
+<edge source="공조_거짓말" target="미국_공조">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="과학" target="의학">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="과학" target="지식인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="의학" target="종교인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="과학_의학" target="의학_종교인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="과학_의학" target="지식인_과학">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="의학_종교인" target="종교인_net">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="관계" target="독자">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="독자" target="진행">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="관계_독자" target="독자_진행">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="관계_독자" target="남북_관계">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="독자_진행" target="진행_수">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="관세청" target="청산">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="관세청" target="낙제점">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="청산" target="부처">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="청산" target="낙제점">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="청산" target="요지경">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="관세청_적" target="적_폐">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="관세청_적" target="낙제점_관세청">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="적_폐" target="부처_적">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="적_폐" target="폐_청산">
+  <data key="d1">125.43448275862069</data>
+</edge>
+<edge source="트럼프" target="짜증">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="트럼프" target="미국">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="트럼프" target="의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="트럼프" target="정부">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="트럼프" target="트럼프">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="교체" target="보도">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="교체" target="연말">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="보도" target="조선">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="보도" target="중앙일보">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="교체_보도" target="보도_중앙일보">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="교체_보도" target="연말_교체">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="보도_중앙일보" target="중앙일보_면">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="국가" target="안보">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국가" target="포장">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국가_안보" target="안보_눈">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국가_안보" target="포장_국가">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="안보_눈" target="눈_것">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국민" target="미래">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="국민" target="행위">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국민" target="정보">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국민" target="폐간">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="미래" target="김동연_장하">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="미래" target="실천">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="미래" target="통일">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="행위" target="살인">
+  <data key="d1">143.70493042952208</data>
+</edge>
+<edge source="행위" target="처벌">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="국민_속" target="속_행위">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국민_속" target="말_국민">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="속_행위" target="행위_거짓">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="국회의원" target="인정">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="국회의원" target="뉴스쇼">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="국회의원_일" target="일_만큼">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="국회의원_일" target="뉴스쇼_국회의원">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="일_만큼" target="만큼_소리">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="군사" target="합의">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="합의" target="미국">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="군사_합의" target="합의_미국">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="합의_미국" target="미국_공조">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="궁_거" target="혜경_궁">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="그동안_우방국" target="우방국_대우">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="그동안_우방국" target="대국_그동안">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="우방국_대우" target="대우_이번">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="그림" target="정련">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="그림" target="정상회담">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="정련" target="재인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="그림_정련" target="정련_물">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="그림_정련" target="일_그림">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="정련_물" target="물_재인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="근절" target="대비">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="근절_대책" target="대책_필요">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="근절_대책" target="대비_근절">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="대책_필요" target="필요_net">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="기레기" target="박근혜">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="기레기" target="조선">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="박근혜" target="능력">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="박근혜" target="대통령">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="박근혜" target="취임식">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="박근혜" target="탄핵">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="박근혜" target="통일">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="박근혜" target="하도">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="박근혜" target="압권">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="박근혜" target="이명">
+  <data key="d1">90.05263157894737</data>
+</edge>
+<edge source="박근혜" target="파면">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="기레기_박근혜" target="박근혜_통일">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="기레기_박근혜" target="조선_기레기">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="박근혜_통일" target="통일_대박">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="기억" target="자칭_트위터">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="기억" target="상당">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="자칭_트위터" target="트위터_문">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문재인_대통령" target="대통령_손">
+  <data key="d1">78.59626436781608</data>
+</edge>
+<edge source="문재인_대통령" target="대통령_유럽">
+  <data key="d1">42.35344827586207</data>
+</edge>
+<edge source="문재인_대통령" target="대통령_일">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="문재인_대통령" target="대통령_통일">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="문재인_대통령" target="시리즈_문재인">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="김동연" target="장하">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="장하" target="연말">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="김동연_장하" target="장하_연말">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="장하_연말" target="연말_교체">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="김병준" target="김종인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김병준" target="정부">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="김병준" target="위원장">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인" target="대표">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인" target="부역">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="김종인" target="등등">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인" target="인간">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="김종인" target="정치인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="정부" target="년차">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="정부" target="대북">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="정부" target="북한">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="정부" target="이해찬">
+  <data key="d1">43.10526315789474</data>
+</edge>
+<edge source="정부" target="최대">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="정부" target="협조">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="김병준_김종인" target="김종인_줄">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김병준_김종인" target="때_김병준">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인_줄" target="줄_문재인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김병준_정부" target="정부_북한">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="정부_북한" target="북한_주장">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="김성태" target="작년">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="작년" target="병영">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="김성태_작년" target="작년_병영">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="김성태_작년" target="하늘">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="작년_병영" target="병영_부조리">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="마음" target="정상회담">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="김정은_경고" target="문재인_김정은">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="김정은_마음" target="마음_정상회담">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="김정은_마음" target="당선_김정은">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="마음_정상회담" target="정상회담_등">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="대표" target="한동안">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="부역" target="박영선">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="김종인_대표" target="대표_직">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인_대표" target="정치인_김종인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="대표_직" target="직_것">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인_부역" target="부역_박영선">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="김종인_부역" target="생각_김종인">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="부역_박영선" target="박영선_의원">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="줄_문재인" target="문재인_인사">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인_파" target="파_연">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김종인_파" target="등등_김종인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="파_연" target="연_계기">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="김현정" target="뉴스쇼">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="김현정" target="상당">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="김현정_뉴스쇼" target="뉴스쇼_국회의원">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="발전" target="폐기">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="핵_발전" target="발전_폐기">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="낙제점_관세청" target="청산_낙제점">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="남북_관계" target="정부_남북">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="남북_안보" target="안보_경제">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="남북_안보" target="윈윈_남북">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="남한" target="붕괴">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="붕괴" target="북한">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="붕괴" target="진리">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="남한_붕괴" target="붕괴_진리">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="남한_붕괴" target="한국_남한">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="붕괴_진리" target="진리_모">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="너는" target="알라">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="너는" target="학규">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="알라" target="이당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="너는_줄" target="줄_알라">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="너는_줄" target="야_너는">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="줄_알라" target="알라_이당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="네이버" target="뉴스_me">
+  <data key="d1">105.56954887218046</data>
+</edge>
+<edge source="네이버" target="연합뉴스">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="년_문재인" target="문재인_정부">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="년_문재인" target="박근혜_년">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="문재인_정부" target="당_문재인">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="문재인_정부" target="정부_경제">
+  <data key="d1">90.61027568922306</data>
+</edge>
+<edge source="문재인_정부" target="정부_년차">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="문재인_정부" target="정부_에">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="문재인_정부" target="정부_최대">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="문재인_정부" target="성장_문재인">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="문재인_정부" target="잘_문재인">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="문재인_정부" target="폐기_문재인">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="년차" target="손바닥">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="손바닥" target="하늘">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="년차_손바닥" target="손바닥_하늘">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="년차_손바닥" target="정부_년차">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="노릇" target="대변인">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="노릇_net" target="대변인_노릇">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="놀_댓글" target="댓글_이해">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="놀_댓글" target="회_놀">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="댓글_이해" target="이해_칭찬">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="누리" target="한당">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="한당" target="비대">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="자_한당" target="한당_비대">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="뉴스_소득" target="소득_주도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="소득" target="주도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="보도_조선" target="조선_기레기">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="소득_주도" target="주도_성장">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="느낌" target="미국_대국">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="느낌" target="다구">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="미국_대국" target="대국_그동안">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="능력" target="원래">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="능력_사람" target="사람_박근혜">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="능력_사람" target="원래_능력">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="사람_박근혜" target="박근혜_하도">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="단독" target="보조금">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="보조금" target="서울">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="닭_아이폰" target="아이폰_아이폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="닭_아이폰" target="한국_닭">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="아이폰_아이폰" target="아이폰_아이폰">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="아이폰_아이폰" target="아이폰_케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="당_문재인" target="왕이_당">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="당선_김정은" target="대선_당선">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="대국" target="우방국">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="대국" target="미국">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="우방국" target="대우">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="대박" target="장단">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="대박" target="통일">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="장단" target="시리즈">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="대박_장단" target="장단_시리즈">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="대박_장단" target="통일_대박">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="장단_시리즈" target="시리즈_문재인">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="대변인" target="주장">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="대변인_노릇" target="주장_대변인">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="대북" target="제재">
+  <data key="d1">148.66478696741856</data>
+</edge>
+<edge source="제재" target="장관">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="제재" target="대상">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="제재" target="정면">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="제재" target="해제">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="대북_제재" target="제재_정면">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="대북_제재" target="정부_대북">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="제재_정면" target="정면_충돌">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="대비" target="신고">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="대비_근절" target="전년_대비">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="대상_포함" target="포함_수">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="대상_포함" target="제재_대상">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="포함_수" target="수_경고">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="대선_당선" target="보궐_대선">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="대우" target="이번">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="이번" target="폼페이">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="대우_이번" target="이번_폼페이">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="이번_폼페이" target="폼페이_오">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="마련" target="지시">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="마련_지시" target="지시_시사">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="대통령" target="유럽">
+  <data key="d1">42.35344827586207</data>
+</edge>
+<edge source="대통령" target="음주운전">
+  <data key="d1">84.73563218390805</data>
+</edge>
+<edge source="대통령" target="탄핵">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대통령" target="통일">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="대통령" target="황선자">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="대통령" target="미국">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="대통령" target="시사">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="유럽" target="순방">
+  <data key="d1">54.9712643678161</data>
+</edge>
+<edge source="음주운전" target="사고">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="음주운전" target="살인">
+  <data key="d1">68.0344827586207</data>
+</edge>
+<edge source="탄핵" target="파면">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="황선자" target="예언">
+  <data key="d1">103.87356321839083</data>
+</edge>
+<edge source="대통령_손" target="손_빵">
+  <data key="d1">78.59626436781608</data>
+</edge>
+<edge source="손_빵" target="빵_황선자">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="대통령_유럽" target="유럽_순방">
+  <data key="d1">42.35344827586207</data>
+</edge>
+<edge source="대통령_음주운전" target="음주운전_살인">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="대통령_음주운전" target="문_대통령">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="음주운전_살인" target="살인_행위">
+  <data key="d1">68.0344827586207</data>
+</edge>
+<edge source="대통령_일" target="일_음주운전">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="대통령_일" target="미국_대통령">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="일_음주운전" target="음주운전_사고">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="대통령_탄핵" target="탄핵_문재인">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대통령_탄핵" target="탄핵_파면">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대통령_탄핵" target="박근혜_대통령">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대통령_탄핵" target="탄핵_대통령">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="탄핵_문재인" target="문재인_최순">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="탄핵_파면" target="파면_박근혜">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대통령_통일" target="통일_미래">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="통일_미래" target="미래_실천">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="한동안" target="무지">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="대한민국" target="인용">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대한민국" target="최순">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대한민국_인용" target="인용_한국">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대한민국_인용" target="실_대한민국">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="인용_한국" target="한국_닭">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="대형" target="사건">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="사건" target="독극물">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="대형_사건" target="사건_산하">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="사건_산하" target="산하_독극물">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="댓글" target="이해">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="댓글" target="진표">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="이해" target="칭찬">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="이해_칭찬" target="칭찬_해주시">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="데일리" target="선물">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="데일리" target="일상">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="선물" target="취미">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="데일리_선물" target="선물_취미">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="데일리_선물" target="일상_데일리">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="선물_취미" target="취미_동물">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="도면" target="학규">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="도면" target="이정">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="도면_학규" target="학규_야">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="도면_학규" target="이정_도면">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="학규_야" target="야_너는">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="도어" target="자료">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="도어" target="전담">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="도어" target="후보">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="자료" target="접수">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="도어_자료" target="자료_접수">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="도어_자료" target="타_도어">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="자료_접수" target="접수_때">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="도어_전담" target="전담_마">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="도어_전담" target="타_도어">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="전담_마" target="마_타">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="독극물" target="쓰레기">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="독극물_쓰레기" target="쓰레기_강산">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="독극물_쓰레기" target="산하_독극물">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="진행" target="의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="진행_수" target="수_의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="동물" target="취미">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="동원" target="압권">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="동원" target="의자">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="압권" target="봇물">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="압권" target="이명">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="동원_압권" target="압권_이명">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="동원_압권" target="의자_동원">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="압권_이명" target="이명_박근혜">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="드라이브" target="브레이크">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="브레이크" target="워싱턴">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="드라이브_브레이크" target="브레이크_워싱턴">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="드라이브_브레이크" target="문재인_드라이브">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="브레이크_워싱턴" target="워싱턴_반응">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="드릴" target="부탁">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="드릴_요" target="요_귀">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="드릴_요" target="부탁_드릴">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="요_귀" target="귀_com">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="등_문" target="문_일">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="등_문" target="정상회담_등">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문_일" target="일_그림">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="등_싸이" target="싸이_문재인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="등_싸이" target="베_등">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="싸이_문재인" target="문재인_문">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="등_지칭" target="지칭_일반">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="등_지칭" target="죄인_등">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="지칭_일반" target="일반_사이트">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="등등" target="이종걸">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="등등_김종인" target="이종걸_등등">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="디스" target="셀프">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="때_김병준" target="위원장_때">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="문재인_후보" target="후보_마">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="때_실체" target="실체_파악">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="때_실체" target="접수_때">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="실체_파악" target="파악_잘못">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="르_한국인" target="한국인_정치인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="르_한국인" target="모_르">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="한국인_정치인" target="정치인_방송">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="마_타" target="타_도어">
+  <data key="d1">83.66666666666667</data>
+</edge>
+<edge source="마_타" target="후보_마">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="지시" target="시사">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="지시_시사" target="시사_타임즈">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="만큼_소리" target="소리_거">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="말_국민" target="정보_말">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="말_다구" target="다구_느낌">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="말_다구" target="한국_말">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="번_반복" target="반복_이">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="멍청이" target="바보">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="멍청이_가짜" target="바보_멍청이">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="면_오보" target="오보_net">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="면_오보" target="중앙일보_면">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="모_르" target="진리_모">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="모야" target="철새">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="모야" target="저당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="철새" target="정치인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="철새" target="여당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="철새" target="정치인_김종인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="응_응" target="응_운">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="보조금_서울" target="서울_미니">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="무지" target="박영선">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="박영선" target="의원">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="박영선" target="이종걸">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="무지_박영선" target="박영선_이종걸">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="박영선_이종걸" target="이종걸_등등">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="문_양반" target="양반_상당수">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문_양반" target="트위터_문">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="양반_상당수" target="상당수_바보">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문_재앙" target="재앙_문">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문_재앙" target="문재인_문">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="재앙_문" target="문_죄인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="문_죄인" target="죄인_등">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="파_이래" target="이래_트럼프">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="인사" target="반도">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="인사" target="인사">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="재앙" target="죄인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="정권" target="부처">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="지지" target="이재명">
+  <data key="d1">49.599999999999994</data>
+</edge>
+<edge source="문재인_김정은" target="이_문재인">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="문재인_드라이브" target="의문_문재인">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="문재인_인사" target="인사_중">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="인사_중" target="중_인사">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="문재인_정권" target="정권_부처">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="문재인_정권" target="수_문재인">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="정권_부처" target="부처_적">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="정부_에" target="에_협조">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="정부_최대" target="최대_의적">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="문재인_최순" target="최순_실">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="최순_실" target="실_대한민국">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="문재인_트럼프" target="트럼프_정부">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="트럼프_정부" target="정부_대북">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="물_미" target="미_투라">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="물_미" target="성태_물">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="미_투라" target="투라_봇물">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="물_재인" target="재인_셀프">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="재인_셀프" target="셀프_디스">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="물자" target="반입">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="물자" target="십수">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="반입" target="전기">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="물자_반입" target="반입_전기">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="물자_반입" target="십수_물자">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="반입_전기" target="전기_생산">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="투라_봇물" target="봇물_것">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="미니" target="태양광">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="미니" target="서울">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="태양광" target="협동조합">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="미니_태양광" target="태양광_친">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="미니_태양광" target="서울_미니">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="태양광_친" target="친_협동조합">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="실천" target="저주">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="미래_실천" target="실천_저주">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="실천_저주" target="저주_조중동">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="바보" target="상당수">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="바보_멍청이" target="상당수_바보">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="취임식" target="소방관">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="박근혜_년" target="이명_박근혜">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="박근혜_대통령" target="케이스_박근혜">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="박근혜_취임식" target="취임식_소방관">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="취임식_소방관" target="소방관_의자">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="박근혜_탄핵" target="탄핵_대통령">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="박근혜_탄핵" target="파면_박근혜">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="박근혜_하도" target="하도_개판">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="의원" target="상당">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="박영선_의원" target="의원_악">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="의원_악" target="악_감">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="반도" target="역_사상">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="반도" target="인사_반도">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="역_사상" target="사상_철새">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="반복" target="아무것">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="반복_이" target="이_문재인">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="반응" target="짜증">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="반응" target="워싱턴">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="반응_짜증" target="짜증_것">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="반응_짜증" target="워싱턴_반응">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="전기" target="생산">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="전기" target="지도">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="전기_생산" target="생산_전기">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="승인" target="아무것">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="승인" target="조롱">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="잘못" target="이정렬_판사">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="잘못" target="정보">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="잘못" target="파악">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="승인_아무것" target="아무것_것">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="잘못_정보" target="정보_말">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="발전_폐기" target="폐기_문재인">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="방송" target="언론인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="방송" target="정치인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="언론인" target="지식인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="방송_언론인" target="언론인_지식인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="방송_언론인" target="정치인_방송">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="언론인_지식인" target="지식인_과학">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="베_등" target="일_베">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="병영" target="부조리">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="부조리" target="신고">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="병영_부조리" target="부조리_신고">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="부조리_신고" target="신고_전년">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="중앙일보" target="오보">
+  <data key="d1">82.19822544867917</data>
+</edge>
+<edge source="봇물" target="투라">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="신고_전년" target="전년_대비">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="부탁" target="자주">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="부탁_드릴" target="자주_부탁">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="북한" target="주장">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="주장" target="아무도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="주장" target="효과">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="북한_붕괴" target="붕괴_한국">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="북한_붕괴" target="예언">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="붕괴_한국" target="한국_남한">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="북한_주장" target="주장_대변인">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="진리" target="한국인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="비대" target="위원장">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="비대_위원장" target="위원장_때">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="비대_위원장" target="한당_비대">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="빵_황선자" target="황선자_예언">
+  <data key="d1">87.92241379310344</data>
+</edge>
+<edge source="사고" target="실수">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="실수" target="살인">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="사고_실수" target="실수_살인">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="사고_실수" target="음주운전_사고">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="실수_살인" target="살인_행위">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="사대" target="매국노">
+  <data key="d1">59.0</data>
+</edge>
+<edge source="사람_삶" target="삶_행">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="사람_삶" target="행위_사람">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="삶_행" target="행_com">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="사무소" target="십수">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="사무소_십수" target="십수_물자">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="최장" target="연속">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="사상_철새" target="정치인">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="정치인" target="제일">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="정치인" target="한국인">
+  <data key="d1">36.826149425287355</data>
+</edge>
+<edge source="사이트" target="상당">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="사이트" target="일반">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="사이트_상당" target="상당_시간">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="사이트_상당" target="일반_사이트">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="상당_시간" target="시간_것">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="살인_행위" target="행위_사람">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="살인_행위" target="행위_처벌">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="행위_처벌" target="처벌_강화">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="시간_것" target="것_기억">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="상당수" target="양반">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="생각_김종인" target="인간_생각">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="생산_전기" target="전기_지도">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="전기_지도" target="지도_이제">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="설명" target="자주">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="자주" target="자주">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="설명_앞으로" target="앞으로_자주">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="앞으로_자주" target="자주_자주">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="성장" target="주도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="성장_문재인" target="주도_성장">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="성태" target="투라">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="셀프" target="재인">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="셀프_디스" target="디스_com">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="소방관" target="의자">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="소방관_의자" target="의자_동원">
+  <data key="d1">57.55263157894737</data>
+</edge>
+<edge source="소통" target="왕이">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="소통" target="해주시">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="소통_왕이" target="왕이_당">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="소통_왕이" target="해주시_소통">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="수_의문" target="의문_문재인">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="수장" target="이제">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="수장_가동" target="정_수장">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="시사" target="타임즈">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="시사_타임즈" target="타임즈_탁">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="타임즈_탁" target="탁_경선">
+  <data key="d1">42.367816091954026</data>
+</edge>
+<edge source="저주" target="조중동">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="저주_조중동" target="조중동_폐간">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="실체" target="파악">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="실체" target="접수">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="파악_잘못" target="잘못_건">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="싹쓸이" target="절반">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="아무도_안" target="안_경상수지">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="아무도_안" target="주장_아무도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="아이폰" target="아이폰">
+  <data key="d1">112.66666666666667</data>
+</edge>
+<edge source="아이폰_케이스" target="케이스_갤럭시">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="아침" target="한국_정부">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="아침" target="의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="한국_정부" target="정부_남북">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="안함" target="연평도">
+  <data key="d1">38.0</data>
+</edge>
+<edge source="이당" target="저당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="알라_이당" target="이당_저당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="이당_저당" target="저당_옴">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="자주_자주" target="자주_부탁">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="야_지금" target="지금_여당">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="야_지금" target="철새_야">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="지금_여당" target="여당_잘">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="양반" target="트위터">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="에_협조" target="협조_해서">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="협조_해서" target="해서_정치">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="여당_잘" target="잘_문재인">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="연속" target="흑자">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="흑자" target="행진">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="흑자_행진" target="행진_출처">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="연합뉴스" target="출처">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="연합뉴스_네이버" target="출처_연합뉴스">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="오_강경" target="폼페이_오">
+  <data key="d1">37.0</data>
+</edge>
+<edge source="옴_겨" target="저당_옴">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="장관_제재" target="제재_해제">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="요지경" target="정치인_중">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="정치인_중" target="중_제일">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="우_경" target="하기">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="운_철새" target="철새_야">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="운_철새" target="응_운">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="의문_건" target="건_아침">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="의문_건" target="트럼프_의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="의적" target="최대">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="의적_폐" target="폐_4대강">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="의적_폐" target="최대_의적">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="이래_트럼프" target="트럼프_트럼프">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="트럼프_트럼프" target="트럼프_의문">
+  <data key="d1">37.5</data>
+</edge>
+<edge source="이름" target="포장">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="이름_포장" target="포장_국가">
+  <data key="d1">60.5</data>
+</edge>
+<edge source="이재명" target="혜경">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="이재명" target="판사">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="이재명_혜경" target="혜경_궁">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="이재명_혜경" target="판사_이재명">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="이정" target="제가">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="이정렬" target="판사">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="이정렬_판사" target="판사_이재명">
+  <data key="d1">41.833333333333336</data>
+</edge>
+<edge source="이제" target="지도">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="이제_정" target="정_수장">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="이제_정" target="지도_이제">
+  <data key="d1">35.0</data>
+</edge>
+<edge source="칭찬" target="해주시">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="칭찬_해주시" target="해주시_소통">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="인간" target="혐오">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="인간_생각" target="혐오_인간">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="인사_반도" target="중_인사">
+  <data key="d1">53.0</data>
+</edge>
+<edge source="일반" target="지칭">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="일상_데일리" target="케이스_일상">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="자칭" target="트위터">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="제재_해제" target="해제_검토">
+  <data key="d1">52.16666666666667</data>
+</edge>
+<edge source="죄인" target="지칭">
+  <data key="d1">40.0</data>
+</edge>
+<edge source="조중동" target="폐간">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="조중동_폐간" target="폐간_국민">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="폐_청산" target="청산_낙제점">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="폐_청산" target="청산_요지경">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="절반" target="협동조합">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="정면" target="충돌">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="충돌" target="특파원">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="정면_충돌" target="충돌_하나">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="충돌_하나" target="하나_특파원">
+  <data key="d1">54.773809523809526</data>
+</edge>
+<edge source="협조" target="해서">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="효과_주장" target="주장_아무도">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="정치" target="하기">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="정치" target="해서">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="정치_르" target="르_하기">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="정치_르" target="해서_정치">
+  <data key="d1">45.05263157894737</data>
+</edge>
+<edge source="제일" target="혐오">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="중_제일" target="제일_혐오">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="제일_혐오" target="혐오_인간">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="폐간_국민" target="국민_미래">
+  <data key="d1">50.1455938697318</data>
+</edge>
+<edge source="티_회" target="회_놀">
+  <data key="d1">35.719298245614034</data>
+</edge>
+<edge source="청산_요지경" target="요지경_속">
+  <data key="d1">51.6</data>
+</edge>
+<edge source="출처" target="행진">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="출처_연합뉴스" target="행진_출처">
+  <data key="d1">38.17167919799499</data>
+</edge>
+<edge source="친_협동조합" target="협동조합_곳">
+  <data key="d1">51.05263157894737</data>
+</edge>
+<edge source="케이스_박근혜" target="폰_케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="케이스_폰" target="폰_케이스">
+  <data key="d1">56.333333333333336</data>
+</edge>
+<edge source="표지" target="장식">
+  <data key="d1">69.06896551724138</data>
+</edge>
+<edge source="프란치스코" target="교황">
+  <data key="d1">52.31896551724138</data>
+</edge>
+</graph></graphml>

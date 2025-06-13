@@ -1,0 +1,14 @@
+MODEL_REGISTRY:
+  EXAONE: LGAI-EXAONE/EXAONE-3.5-2.4B-Instruct
+  Bllossom: Bllossom/llama-3.2-Korean-Bllossom-3B
+  Ko-Gemma: beomi/gemma-ko-2b
+
+SPECIAL_TOKENS:
+  RATIONALE:
+    - <rationale>
+    - </rationale>
+  OUTPUT:
+    - <output>
+    - </output>
+
+ALPHA: 0.5
